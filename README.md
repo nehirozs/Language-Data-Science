@@ -8,8 +8,18 @@ Course assignments for **COMP 345** (Computational Linguistics and Natural Langu
 
 | Assignment | Description |
 |------------|-------------|
-| **A1** | `NehirOzs_A1.ipynb` — Assignment 1 |
+| **A1** | `NehirOzs_A1.ipynb` — Regular expressions, word frequency analysis with dictionaries, and Naive Bayes text classifier from scratch (tokenization, probability computation, evaluation) |
 | **A2** | `NehirOzs_A2.ipynb` — Classification metrics, linear regression from scratch, Ridge/Lasso regularization, and logistic regression for text classification using a 7-book dataset and bag-of-words features |
+
+---
+
+## Assignment 1 Overview
+
+Assignment 1 covers:
+
+- **Regular expressions** — Pattern matching, extraction, and validation with Python’s `re` module
+- **Dictionaries & statistics** — Word frequencies and text statistics
+- **Naive Bayes** — Text classifier from scratch: tokenization, probability computation, and evaluation
 
 ---
 
